@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(3d\ img\ 2.avif);
+    background-size: cover;
+    justify-content: flex-start;
+}
+
+.row {
+    width: 600px;
+    margin-left: 15px;
+    display: grid;
+}
+
+.card {
+    height: 200px;
+    width: 150px;
+}
+.card-img-top {
+    height: 300px;
+    width: 200px;
+}
